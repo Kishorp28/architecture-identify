@@ -1,0 +1,15 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Local databases and states
+backend/chroma_db/
+backend/repo_state.json
+backend/.env
+frontend/.env
+*.log

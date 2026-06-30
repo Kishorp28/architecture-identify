@@ -1,0 +1,11 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+chromadb>=0.4.0
+openai>=1.0.0
+google-generativeai>=0.3.0
+gitpython>=3.1.30
+pathspec>=0.11.0
+pydantic>=2.0
+python-multipart>=0.0.6
+networkx>=3.0
+python-dotenv>=1.0.0
